@@ -446,3 +446,5 @@ if __name__ == "__main__":
   root = tk.Tk()
   app = NGCKioskApp(root)
   root.mainloop()
+  
+  @python3 /home/pi/jayproject/code.py
